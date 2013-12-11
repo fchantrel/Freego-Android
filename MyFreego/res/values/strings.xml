@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFreego</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Chaines de l'activity accueil -->
+    <string name="title_activity_main">Accueil</string>
+    <string name="image_content_description">Un caddie android</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="login">Login</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    
+    <!-- Chaines de l'activity loginDisplay -->
+    <string name="title_activity_login_display">Login</string>
+    <string name="hint_login">"Ici : L'adresse email de l'utilisateur"</string>
+    <string name="hint_pass">"Ici : Le mot de passe de l'utilisateur"</string>
+    
+    <!-- Chaines de l'activity listView -->
+    <string name="icone_item">"Icone de l'item"</string>
+	<string name="title_activity_list_example">Liste des produits</string>
+	
+	<string name="title_products_list_view">Liste des produits</string>
+	
+</resources>
